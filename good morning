@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+  printf(" a warm good morning too all");
+  return 0;
+  }
